@@ -1,0 +1,52 @@
+File Manifest for ICPSR 28368
+
+Miller, Jon D., Linda Kimmel, ORC Macro , Tom Smith, and Susan Carol Losh.
+National Science Foundation Surveys of Public Attitudes Toward and
+Understanding of Science and Technology, 1979-2006: [United States].
+ICPSR28368-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2016-12-07.
+http://doi.org/10.3886/ICPSR28368.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28368-descriptioncitation.pdf       -       -         -       2016-12-14  -
+
+    28368-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 National Science Foundation Surveys of Public Attitudes Toward and
+Understanding of Science and Technology, 1979-2006: [United States]
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28368-0001-Codebook.pdf             -       -         -       2016-12-07  526ba355bc30d49866409982dea370a5
+
+    28368-0001-Data.dta                 -       23,906    279     2016-12-07  9eecb217036d02499bc5c150bbc97d59
+
+    28368-0001-Data.rda                 -       23,906    279     2016-12-07  88cb001b5e630053e3e7eda2423de7fc
+
+    28368-0001-Data.sav                 -       23,906    279     2016-12-07  f698e079fa646a4267310ae8e7d4bfc0
+
+    28368-0001-Data.stc                 -       23,906    279     2016-12-07  ae356aeab9180cbc47a6f9ac6a73faf8
+
+    28368-0001-Data.tsv                 -       23,906    279     2016-12-07  2680525a4549bf1274aab3a0bf910b37
+
+    28368-0001-Data.txt                 437     23,906    279     2016-12-07  7a638a9257dda246fca3fcd3c9a2dc54
+
+    28368-0001-Setup.dct                -       -         -       2016-12-07  372d183977c960b07e6120c23176f489
+
+    28368-0001-Setup.do                 -       -         -       2016-12-07  2bbb30d3a73b7ab8f1d53c525b6130da
+
+    28368-0001-Setup.sas                -       -         -       2016-12-07  d00497ff4e05a22c74d6657dffc7e151
+
+    28368-0001-Setup.sps                -       -         -       2016-12-07  021cf20c5efd69d751184146fcac2893
+
+    28368-0001-Supplemental_syntax.do   -       -         -       2016-12-07  8ac7c58a38b45763c8aeac1d6a73e6cd
+
+    28368-0001-Supplemental_syntax.sas  -       -         -       2016-12-07  f4ad4386b7e5230a56f69691ef62fb57
+
